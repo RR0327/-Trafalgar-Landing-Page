@@ -7,16 +7,12 @@ A professional, fully responsive healthcare landing page for Trafalgar, offering
 ## Table of Contents
 
 - [Overview](#overview)
-- [Features](#-features)
-- [Project Structure](#-project-structure)
-- [Technology Stack](#-technology-stack)
-- [Installation](#-installation)
-- [Customization](#-customization)
-- [Browser Support](#-browser-support)
-- [Performance](#-performance)
-- [Deployment](#-deployment)
-- [Support](#-support)
-- [License](#-license)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Technology Stack](#technology-stack)
+- [Quick Start](#quick-start)
+- [Credit](#credit)
+- [License](#license)
 
 ## Overview
 
@@ -96,7 +92,7 @@ trafalgar-landing/
 2. **Set Up Assets**
    Ensure all image files are placed in the correct directories as per the project structure above.
 
-# Credits
+# Credit
 
 Built by **Md Rakibul Hassan**
 
